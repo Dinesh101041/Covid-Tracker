@@ -1,6 +1,5 @@
 # Covid-Tracker
 
-# Voice-assitant
 
 This is Coivd Tracker using python and Tkinter
 
